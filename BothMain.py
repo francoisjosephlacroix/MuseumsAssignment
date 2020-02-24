@@ -55,3 +55,6 @@ if __name__ == '__main__':
     plt.ylabel("Museum attendance (millions)")
 
     plt.show()
+
+    print(museumTable)
+    print(citiesTable)
