@@ -5,7 +5,6 @@ from MuseumTableAssembler import MuseumTableAssembler
 from WikiTable import WikiTable
 
 if __name__ == '__main__':
-
     api = API()
     dbConnectionManager = DBConnectionManager()
 
@@ -13,7 +12,6 @@ if __name__ == '__main__':
     museumTableAssembler = MuseumTableAssembler()
     museumTable = museumTableAssembler.assembleTable(museumListJson)
     museumTable.persist("Museums", dbConnectionManager.getDBConnection())
-
 
     citiesTable = WikiTable(museumTable[['City', 'CityRef']])
     citiesTableAssembler = CitiesTableAssembler()

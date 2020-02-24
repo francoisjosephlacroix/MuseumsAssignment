@@ -36,7 +36,6 @@ class CitiesTableAssembler:
             wikibaseId = self.cityWikibaseIds[row["CityRef"]]
             self.citiesTable.at[index, "WikibaseId"] = wikibaseId
 
-
     def addPopulation(self, api):
         self.citiesTable["Population"] = ""
         populationDict = {}
@@ -98,7 +97,6 @@ class CitiesTableAssembler:
 
             populationDict[id] = population
 
-
         for index, row in self.citiesTable.iterrows():
-          population = populationDict[self.citiesTable.at[index,"WikibaseId"]]
-          self.citiesTable.at[index, "Population"] = population
+            population = populationDict[self.citiesTable.at[index, "WikibaseId"]]
+            self.citiesTable.at[index, "Population"] = population

@@ -6,7 +6,6 @@ from matplotlib import pyplot as plt
 import pandas as pd
 
 if __name__ == '__main__':
-
     dbConnectionManager = DBConnectionManager()
 
     museumsTable = WikiTable.load("Museums", dbConnectionManager.getDBConnection())
@@ -39,19 +38,3 @@ if __name__ == '__main__':
     plt.ylabel("Museum attendance (millions)")
 
     plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

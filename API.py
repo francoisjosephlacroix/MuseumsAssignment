@@ -6,7 +6,6 @@ class API:
     def __init__(self):
         pass
 
-
     def getMuseumList(self):
         museumsRequest = requests.get(
             'https://en.wikipedia.org/w/api.php?action=parse&page=List_of_most_visited_museums&prop=text&format=json')
@@ -14,7 +13,6 @@ class API:
         page_content = museumsRequest.json()
 
         return page_content
-
 
     def getWikibaseItemFromArticleName(self, articleName):
         wikibaseIdURL = "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles={}&props=descriptions&languages=en&format=json".format(
@@ -41,7 +39,6 @@ class API:
         formattedRedirect = redirectsTo.replace(' ', '_')
         return formattedRedirect
 
-
     def getPopulationData(self, id):
         populationRequest = requests.get(
             "https://www.wikidata.org/w/api.php?action=wbgetentities&ids={}&format=json".format(id))
@@ -51,7 +48,3 @@ class API:
         claims = entity["claims"]
         populationData = claims["P1082"]
         return populationData
-
-
-
-

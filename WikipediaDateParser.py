@@ -17,4 +17,3 @@ class WikipediaDateParser():
             stringDate = stringDate[:8] + "01" + stringDate[10:]
 
         return datetime.strptime(stringDate, '%Y-%m-%dT%H:%M:%SZ')
-

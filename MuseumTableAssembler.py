@@ -5,11 +5,6 @@ from WikiTable import WikiTable
 
 class MuseumTableAssembler:
 
-    # def __init__(self):
-    #     pass
-
-
-
     def assembleTable(self, page_content):
         page_html = page_content["parse"]["text"]["*"]
         soup = BeautifulSoup(page_html)
