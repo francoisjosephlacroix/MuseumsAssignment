@@ -17,3 +17,6 @@ if __name__ == '__main__':
     citiesTableAssembler = CitiesTableAssembler()
     citiesTable = citiesTableAssembler.assemble(citiesTable, api)
     citiesTable.persist("Cities", dbConnectionManager.getDBConnection())
+
+    print(museumTable)
+    print(citiesTable)
