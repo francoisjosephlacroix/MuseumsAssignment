@@ -48,3 +48,9 @@ class API:
         claims = entity["claims"]
         populationData = claims["P1082"]
         return populationData
+
+    def getWikiDataForWikibaseItem(self, id):
+        wikiDataRequest = requests.get(
+            "https://www.wikidata.org/w/api.php?action=wbgetentities&ids={}&format=json".format(id))
+        wikiDataJson = wikiDataRequest.json()
+        return wikiDataJson

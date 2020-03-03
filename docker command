@@ -1,0 +1,5 @@
+docker build -t museums-extract .
+docker run museums-extract
+
+#To see which processes are running
+docker images
