@@ -6,9 +6,6 @@ from WikiReferenceValidator import WikiReferenceValidator
 from WikiTable import WikiTable
 
 
-
-
-
 class MuseumTableAssembler:
 
     def __init__(self):
@@ -66,7 +63,7 @@ class MuseumTableAssembler:
         museumNameRef = museumNameData["href"]
 
         isReferenceValid = WikiReferenceValidator.isReferenceValid(museumNameRef)
-        if(not isReferenceValid):
+        if (not isReferenceValid):
             museumNameRef = ""
 
         self.museumNamesRef.append(museumNameRef)
@@ -88,22 +85,21 @@ class MuseumTableAssembler:
         for index, row in table.iterrows():
 
             museumRef = row["MuseumNameRef"]
-            museumRef = museumRef.replace("/wiki/","")
+            museumRef = museumRef.replace("/wiki/", "")
             print("museumRef", museumRef)
 
-            if(museumRef == ""):
+            if (museumRef == ""):
                 continue
 
             wikibaseItem = api.getWikibaseItemFromArticleName(museumRef)
-            print("wikibaseItem",wikibaseItem)
+            print("wikibaseItem", wikibaseItem)
 
-            #If article doesn't exist, check for redirects
-            if(wikibaseItem == "-1"):
+            # If article doesn't exist, check for redirects
+            if (wikibaseItem == "-1"):
                 redirect = api.getRedirect(museumRef)
                 print("Redirect", redirect)
                 wikibaseItem = api.getWikibaseItemFromArticleName(redirect)
                 print("New wikibaseItem", wikibaseItem)
-
 
             museumDataJson = api.getWikiDataForWikibaseItem(wikibaseItem)
 
@@ -123,8 +119,6 @@ class MuseumTableAssembler:
 
                 except:
                     pass
-
-
 
     def extractFeatureFromProperty(self, json, key, propertyName, api):
         property = json[0]
@@ -154,7 +148,7 @@ class MuseumTableAssembler:
                 alias = enAliases[0]["value"]
 
             else:
-                #If no english name, just take the first alias in any language
+                # If no english name, just take the first alias in any language
                 alias = list(aliases)[0][0]["value"]
 
             return {propertyName: alias}
@@ -172,5 +166,3 @@ class MuseumTableAssembler:
             date = WikipediaDateParser.parse(stringDate)
             formattedDateString = date.strftime("%Y-%m-%dT%H:%M:%SZ")
             return {propertyName: formattedDateString}
-
-

@@ -1,0 +1,13 @@
+SELECT ?museum ?visitors
+WHERE
+{
+  ?museum wdt:P1174 ?visitors .
+
+  FILTER(?visitors>1000000)
+
+  ?museum wdt:P31 wd:Q33506;
+}
+
+
+
+https://query.wikidata.org/#SELECT%20%3Fmuseum%20%3Fvisitors%0AWHERE%0A%7B%0A%20%20%3Fmuseum%20wdt%3AP1174%20%3Fvisitors%20.%0A%20%0A%20%20FILTER%28%3Fvisitors%3E1000000%29%0A%20%0A%20%20%3Fmuseum%20wdt%3AP31%20wd%3AQ33506%3B%0A%7D

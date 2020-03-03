@@ -1,0 +1,5158 @@
+{
+  "entities": {
+    "Q23402": {
+      "pageid": 26797,
+      "ns": 0,
+      "title": "Q23402",
+      "lastrevid": 1122706548,
+      "modified": "2020-02-24T10:04:14Z",
+      "type": "item",
+      "id": "Q23402",
+      "labels": {
+        "szl": {
+          "language": "szl",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u5965\u8d5b\u535a\u7269\u9986"
+        },
+        "ky": {
+          "language": "ky",
+          "value": "\u041b\u0443\u0432\u0440 \u043c\u0443\u0437\u0435\u0439\u0438"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "Mus\u00e9e d\u2019Orsay"
+        },
+        "eu": {
+          "language": "eu",
+          "value": "Orsay museoa"
+        },
+        "bs": {
+          "language": "bs",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "ang": {
+          "language": "ang",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "uz": {
+          "language": "uz",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "es": {
+          "language": "es",
+          "value": "Museo de Orsay"
+        },
+        "lij": {
+          "language": "lij",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "oc": {
+          "language": "oc",
+          "value": "Mus\u00e8u d'Orsay"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "Mus\u00e9e d\u2019Orsay"
+        },
+        "sw": {
+          "language": "sw",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "sq": {
+          "language": "sq",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "ty": {
+          "language": "ty",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "ia": {
+          "language": "ia",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "ga": {
+          "language": "ga",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "my": {
+          "language": "my",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "kw": {
+          "language": "kw",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u0645\u062a\u062d\u0641 \u0623\u0648\u0631\u0633\u064a\u0647"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "Museu de Orsay"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "sr": {
+          "language": "sr",
+          "value": "\u041c\u0443\u0437\u0435\u0458 \u041e\u0440\u0441\u0435\u0458"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "\u041c\u0443\u0437\u0435\u0439 \u0434'\u041e\u0440\u0441\u0435"
+        },
+        "jbo": {
+          "language": "jbo",
+          "value": "di,orsais. zei muzga"
+        },
+        "tet": {
+          "language": "tet",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "roa-tara": {
+          "language": "roa-tara",
+          "value": "Mus\u00e8e d'u Orsay"
+        },
+        "kv": {
+          "language": "kv",
+          "value": "\u041e\u0440\u0441\u044d \u043c\u0443\u0437\u0435\u0439"
+        },
+        "hr": {
+          "language": "hr",
+          "value": "Muzej d'Orsay"
+        },
+        "az": {
+          "language": "az",
+          "value": "Orse muzeyi"
+        },
+        "lmo": {
+          "language": "lmo",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "fur": {
+          "language": "fur",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "nap": {
+          "language": "nap",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "an": {
+          "language": "an",
+          "value": "Museu d'Orsay"
+        },
+        "da": {
+          "language": "da",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "pms": {
+          "language": "pms",
+          "value": "Mus\u00e9 d'Orsay"
+        },
+        "nah": {
+          "language": "nah",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "be": {
+          "language": "be",
+          "value": "\u041c\u0443\u0437\u0435\u0439 \u0410\u0440\u0441\u044d"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d3'\u05d0\u05d5\u05e8\u05e1\u05d4"
+        },
+        "it": {
+          "language": "it",
+          "value": "Museo d'Orsay"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30aa\u30eb\u30bb\u30fc\u7f8e\u8853\u9928"
+        },
+        "ml": {
+          "language": "ml",
+          "value": "\u0d2e\u0d41\u0d38\u0d40 \u0d21\u0d3f\u0d13\u0d34\u0d4d\u0d38\u0d47"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "B\u1ea3o t\u00e0ng Orsay"
+        },
+        "sc": {
+          "language": "sc",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "yue": {
+          "language": "yue",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "wo": {
+          "language": "wo",
+          "value": "Jeexiituwaay bu Orsay"
+        },
+        "ku": {
+          "language": "ku",
+          "value": "Muzeya Orsay\u00ea"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "Mus\u00e9e d\u2019Orsay"
+        },
+        "mn": {
+          "language": "mn",
+          "value": "\u041c\u0443\u0437\u0435\u0439 \u041e\u0440\u0441\u0435"
+        },
+        "th": {
+          "language": "th",
+          "value": "\u0e1e\u0e34\u0e1e\u0e34\u0e18\u0e20\u0e31\u0e13\u0e11\u0e4c\u0e2d\u0e2d\u0e23\u0e4c\u0e41\u0e0b"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "museu d'Orsay"
+        },
+        "la": {
+          "language": "la",
+          "value": "Museum Orsay"
+        },
+        "cy": {
+          "language": "cy",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "os": {
+          "language": "os",
+          "value": "\u041c\u0443\u0437\u0435\u0439 \u0434\u2019\u041e\u0440\u0441\u0435"
+        },
+        "bg": {
+          "language": "bg",
+          "value": "\u041c\u0443\u0437\u0435\u0439 \u041e\u0440\u0441\u0435"
+        },
+        "ur": {
+          "language": "ur",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "ksh": {
+          "language": "ksh",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "lb": {
+          "language": "lb",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "jv": {
+          "language": "jv",
+          "value": "Museum d'Orsay"
+        },
+        "qu": {
+          "language": "qu",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "gd": {
+          "language": "gd",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "rup": {
+          "language": "rup",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "haw": {
+          "language": "haw",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "af": {
+          "language": "af",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "ceb": {
+          "language": "ceb",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "et": {
+          "language": "et",
+          "value": "Orsay muuseum"
+        },
+        "bn": {
+          "language": "bn",
+          "value": "\u09ae\u09c1\u099c\u09c7 \u09a6\u09b0\u09cd\u09b8\u09c7"
+        },
+        "br": {
+          "language": "br",
+          "value": "Mirdi Orsay"
+        },
+        "el": {
+          "language": "el",
+          "value": "\u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u039f\u03c1\u03c3\u03ad"
+        },
+        "pnb": {
+          "language": "pnb",
+          "value": "\u0627\u0648\u0631\u0633\u06d2 \u0645\u06cc\u0648\u0632\u06cc\u0645"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "Mus\u00e9e d\u2019Orsay"
+        },
+        "is": {
+          "language": "is",
+          "value": "Orsay-minjasafni\u00f0"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u041c\u0443\u0437\u0435\u0439 \u041e\u0440\u0441\u0435"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "Orsay M\u00fczesi"
+        },
+        "se": {
+          "language": "se",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "mk": {
+          "language": "mk",
+          "value": "\u041c\u0443\u0437\u0435\u0458 \u041e\u0440\u0441\u0435"
+        },
+        "myv": {
+          "language": "myv",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "nn": {
+          "language": "nn",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "io": {
+          "language": "io",
+          "value": "Muzeo d'Orsay"
+        },
+        "mzn": {
+          "language": "mzn",
+          "value": "\u0627\u0648\u0631\u0633\u06cc \u0645\u0648\u0632\u0647"
+        },
+        "tl": {
+          "language": "tl",
+          "value": "Museo ng Orsay"
+        },
+        "nan": {
+          "language": "nan",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "kab": {
+          "language": "kab",
+          "value": "Muzee n Orsay"
+        },
+        "wa": {
+          "language": "wa",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "so": {
+          "language": "so",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "mus\u00e9e d'Orsay"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\uc624\ub974\uc138 \ubbf8\uc220\uad00"
+        },
+        "lv": {
+          "language": "lv",
+          "value": "Ors\u0113 muzejs"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "Museo de Orsay"
+        },
+        "de": {
+          "language": "de",
+          "value": "Mus\u00e9e d\u2019Orsay"
+        },
+        "id": {
+          "language": "id",
+          "value": "Museum Orsay"
+        },
+        "en": {
+          "language": "en",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "sh": {
+          "language": "sh",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "scn": {
+          "language": "scn",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "hi": {
+          "language": "hi",
+          "value": "\u0913\u0930\u094d\u0938\u0947 \u0938\u0902\u0917\u094d\u0930\u0939\u093e\u0932\u092f"
+        },
+        "nov": {
+          "language": "nov",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "hy": {
+          "language": "hy",
+          "value": "\u0555\u0580\u057d\u0565 \u0569\u0561\u0576\u0563\u0561\u0580\u0561\u0576"
+        },
+        "kn": {
+          "language": "kn",
+          "value": "\u0cae\u0ccd\u0caf\u0cc2\u0cb8\u0cbf \u0ca6\u0ccd'\u0c93\u0cb0\u0ccd\u0cb8\u0cc6"
+        },
+        "cv": {
+          "language": "cv",
+          "value": "\u041e\u0440\u0441\u0435 \u043c\u0443\u0437\u0435\u0439\u0115"
+        },
+        "fy": {
+          "language": "fy",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "ro": {
+          "language": "ro",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "ilo": {
+          "language": "ilo",
+          "value": "Museo ti Orsay"
+        },
+        "sl": {
+          "language": "sl",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "war": {
+          "language": "war",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "\u0645\u0648\u0632\u0647 \u0627\u0648\u0631\u0633\u06cc"
+        },
+        "ka": {
+          "language": "ka",
+          "value": "\u10dd\u10e0\u10e1\u10d4\u10d8\u10e1 \u10db\u10e3\u10d6\u10d4\u10e3\u10db\u10d8"
+        },
+        "vls": {
+          "language": "vls",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "nds": {
+          "language": "nds",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "lt": {
+          "language": "lt",
+          "value": "Ors\u0117 muziejus"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "ms": {
+          "language": "ms",
+          "value": "Muzium Orsay"
+        },
+        "ta": {
+          "language": "ta",
+          "value": "\u0b93\u0bb0\u0bcd\u0b9a\u0bc7 \u0b85\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0b95\u0bae\u0bcd"
+        },
+        "sco": {
+          "language": "sco",
+          "value": "Mus\u00e9e d'Orsay"
+        },
+        "ast": {
+          "language": "ast",
+          "value": "Mus\u00e9u d'Orsay"
+        },
+        "am": {
+          "language": "am",
+          "value": "\u1219\u12dc \u12f6\u122d\u1230\u12ed"
+        },
+        "ce": {
+          "language": "ce",
+          "value": "\u041e\u0440\u0441\u0435"
+        },
+        "wuu": {
+          "language": "wuu",
+          "value": "\u5965\u8d5b\u535a\u7269\u9986"
+        }
+      },
+      "descriptions": {
+        "fr": {
+          "language": "fr",
+          "value": "mus\u00e9e de Paris, France"
+        },
+        "en": {
+          "language": "en",
+          "value": "art museum in Paris, France"
+        },
+        "es": {
+          "language": "es",
+          "value": "pinacoteca que se encuentra en Par\u00eds, Francia"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "muzeum v Pa\u0159\u00ed\u017ei"
+        },
+        "it": {
+          "language": "it",
+          "value": "museo di Parigi"
+        },
+        "ilo": {
+          "language": "ilo",
+          "value": "museo ti arte idiay Paris"
+        },
+        "de": {
+          "language": "de",
+          "value": "Kunstmuseum in Paris"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "museum in Parijs"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "konstmuseum i Paris"
+        },
+        "id": {
+          "language": "id",
+          "value": "museum pertunjukan seni di Perancis"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d1\u05e6\u05e8\u05e4\u05ea"
+        },
+        "th": {
+          "language": "th",
+          "value": "\u0e1e\u0e34\u0e1e\u0e34\u0e18\u0e20\u0e31\u0e13\u0e11\u0e4c\u0e28\u0e34\u0e25\u0e1b\u0e30, \u0e1b\u0e32\u0e23\u0e35\u0e2a"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "museu na cidade de Paris"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "muzeum sztuki w Pary\u017cu we Francji"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30d1\u30ea\u306e\u7f8e\u8853\u9928"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\uc624\ub974\uc138"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "kunstmuseum i Paris"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u6cd5\u570b\u5df4\u9ece\u7684\u85dd\u8853\u535a\u7269\u9928"
+        },
+        "br": {
+          "language": "br",
+          "value": "mirdi Bro-C'hall"
+        }
+      },
+      "aliases": {
+        "zh": [
+          {
+            "language": "zh",
+            "value": "\u5965\u5c14\u8d5b\u535a\u7269\u9986"
+          },
+          {
+            "language": "zh",
+            "value": "\u5965\u585e\u535a\u7269\u9986"
+          },
+          {
+            "language": "zh",
+            "value": "\u5967\u585e\u7f8e\u8853\u9928"
+          }
+        ],
+        "pl": [
+          {
+            "language": "pl",
+            "value": "Muzeum Orsay"
+          },
+          {
+            "language": "pl",
+            "value": "Muzeum d\u2019Orsay"
+          },
+          {
+            "language": "pl",
+            "value": "Musee d\u2019Orsay"
+          }
+        ],
+        "eu": [
+          {
+            "language": "eu",
+            "value": "Mus\u00e9e d'Orsay"
+          },
+          {
+            "language": "eu",
+            "value": "Orsayko museoa"
+          }
+        ],
+        "es": [
+          {
+            "language": "es",
+            "value": "Musee d'Orsay"
+          },
+          {
+            "language": "es",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "oc": [
+          {
+            "language": "oc",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "hu": [
+          {
+            "language": "hu",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "nl": [
+          {
+            "language": "nl",
+            "value": "Musee d'Orsay"
+          },
+          {
+            "language": "nl",
+            "value": "Mus\u00e9e d`Orsay"
+          },
+          {
+            "language": "nl",
+            "value": "Gare d'Orsay"
+          },
+          {
+            "language": "nl",
+            "value": "Musee d`Orsay"
+          }
+        ],
+        "ar": [
+          {
+            "language": "ar",
+            "value": "\u0645\u0637\u0627\u0631 \u0623\u0648\u0631\u0633\u064a"
+          },
+          {
+            "language": "ar",
+            "value": "\u0645\u062a\u062d\u0641 \u062f\u0648\u0631\u0633\u064a\u0647"
+          },
+          {
+            "language": "ar",
+            "value": "\u0645\u062a\u062d\u0641 \u0627\u0648\u0631\u0633\u064a\u0647"
+          }
+        ],
+        "pt": [
+          {
+            "language": "pt",
+            "value": "Mus\u00e9e d'orsay"
+          },
+          {
+            "language": "pt",
+            "value": "Museu d\u00b4Orsay"
+          },
+          {
+            "language": "pt",
+            "value": "Museu D'Orsay"
+          },
+          {
+            "language": "pt",
+            "value": "Mus\u00e9e d\u00b4Orsay"
+          }
+        ],
+        "eo": [
+          {
+            "language": "eo",
+            "value": "Muzeo de Orsay"
+          },
+          {
+            "language": "eo",
+            "value": "Muzeo Orsay"
+          }
+        ],
+        "sr": [
+          {
+            "language": "sr",
+            "value": "Le mus\u00e9e d'Orsay"
+          }
+        ],
+        "fi": [
+          {
+            "language": "fi",
+            "value": "Musee d'Orsay"
+          }
+        ],
+        "uk": [
+          {
+            "language": "uk",
+            "value": "\u041c\u0443\u0437\u0435\u0439 \u041e\u0440\u0441\u0435"
+          }
+        ],
+        "jbo": [
+          {
+            "language": "jbo",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "roa-tara": [
+          {
+            "language": "roa-tara",
+            "value": "Musee d'u Orsay"
+          }
+        ],
+        "kv": [
+          {
+            "language": "kv",
+            "value": "Mus\u00e9e d'Orsay"
+          },
+          {
+            "language": "kv",
+            "value": "\u041e\u0440\u0441\u0435 \u043c\u0443\u0437\u0435\u0439"
+          }
+        ],
+        "hr": [
+          {
+            "language": "hr",
+            "value": "D'Orsay"
+          },
+          {
+            "language": "hr",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "az": [
+          {
+            "language": "az",
+            "value": "Orsay muzeyi"
+          }
+        ],
+        "an": [
+          {
+            "language": "an",
+            "value": "Museu d'o Orsay"
+          },
+          {
+            "language": "an",
+            "value": "Museu de l'Orsay"
+          }
+        ],
+        "da": [
+          {
+            "language": "da",
+            "value": "Orsay-museet"
+          }
+        ],
+        "pms": [
+          {
+            "language": "pms",
+            "value": "Mus\u00e9 d\u00ebl Orsay"
+          }
+        ],
+        "he": [
+          {
+            "language": "he",
+            "value": "\u05de\u05d5\u05d6\u05d4 \u05d3\u05d0\u05d5\u05e8\u05e1\u05d9\u05d9"
+          },
+          {
+            "language": "he",
+            "value": "\u05de\u05d5\u05d6\u05d4 \u05d3\u05d0\u05d5\u05e8\u05e1\u05d4"
+          },
+          {
+            "language": "he",
+            "value": "\u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d3'\u05d0\u05d5\u05e8\u05e1\u05d9\u05d9"
+          },
+          {
+            "language": "he",
+            "value": "\u05de\u05d5\u05d6\u05d4 \u05d3'\u05d0\u05d5\u05e8\u05e1\u05d4"
+          },
+          {
+            "language": "he",
+            "value": "\u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d3\u05d0\u05d5\u05e8\u05e1\u05d4"
+          },
+          {
+            "language": "he",
+            "value": "\u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d3\u05d0\u05d5\u05e8\u05e1\u05d9\u05d9"
+          },
+          {
+            "language": "he",
+            "value": "\u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d0\u05d5\u05e8\u05e1\u05d9\u05d9"
+          },
+          {
+            "language": "he",
+            "value": "\u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d3'\u05d0\u05d5\u05e8\u05e1\u05d9"
+          }
+        ],
+        "it": [
+          {
+            "language": "it",
+            "value": "Mus\u00e9e d\u2019Orsay"
+          },
+          {
+            "language": "it",
+            "value": "Mus\u00e9e d'Orsay di Parigi"
+          },
+          {
+            "language": "it",
+            "value": "Musee d'orsay"
+          },
+          {
+            "language": "it",
+            "value": "Museo d'Orsay di Parigi"
+          },
+          {
+            "language": "it",
+            "value": "mus\u00e9e d'Orsay"
+          }
+        ],
+        "ml": [
+          {
+            "language": "ml",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "vi": [
+          {
+            "language": "vi",
+            "value": "Mus\u00e9e d\u2019Orsay"
+          },
+          {
+            "language": "vi",
+            "value": "Vi\u1ec7n b\u1ea3o t\u00e0ng Orsay"
+          },
+          {
+            "language": "vi",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "yue": [
+          {
+            "language": "yue",
+            "value": "\u5967\u585e\u535a\u7269\u9928"
+          }
+        ],
+        "wo": [
+          {
+            "language": "wo",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "ku": [
+          {
+            "language": "ku",
+            "value": "Muzexaneya Orsay\u00ea"
+          },
+          {
+            "language": "ku",
+            "value": "M\u00fbzeya Orsay"
+          },
+          {
+            "language": "ku",
+            "value": "Mus\u00e9e d'Orsay"
+          },
+          {
+            "language": "ku",
+            "value": "M\u00fbzexaneya Orsay\u00ea"
+          },
+          {
+            "language": "ku",
+            "value": "M\u00fbzeya Orsay\u00ea"
+          },
+          {
+            "language": "ku",
+            "value": "Muzeya Orsay"
+          }
+        ],
+        "mn": [
+          {
+            "language": "mn",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "th": [
+          {
+            "language": "th",
+            "value": "\u0e1e\u0e34\u0e1e\u0e34\u0e18\u0e20\u0e31\u0e13\u0e11\u0e4c\u0e2d\u0e2d\u0e23\u0e4c\u0e40\u0e0b\u0e22\u0e4c"
+          },
+          {
+            "language": "th",
+            "value": "\u0e1e\u0e34\u0e1e\u0e34\u0e18\u0e20\u0e31\u0e13\u0e11\u0e4c\u0e14\u0e2d\u0e23\u0e4c\u0e40\u0e0b\u0e22\u0e4c"
+          },
+          {
+            "language": "th",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "ca": [
+          {
+            "language": "ca",
+            "value": "Museu d\u2019Orsay"
+          },
+          {
+            "language": "ca",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "la": [
+          {
+            "language": "la",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "cs": [
+          {
+            "language": "cs",
+            "value": "Mus\u00e9e d\u2019Orsay"
+          },
+          {
+            "language": "cs",
+            "value": "Muzeum Orsay"
+          }
+        ],
+        "os": [
+          {
+            "language": "os",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "bg": [
+          {
+            "language": "bg",
+            "value": "\u041c\u0443\u0437\u0435\u0439 \u0434'\u041e\u0440\u0441\u0435"
+          }
+        ],
+        "jv": [
+          {
+            "language": "jv",
+            "value": "Museum Mus\u00e9e d'Orsay"
+          }
+        ],
+        "et": [
+          {
+            "language": "et",
+            "value": "Mus\u00e9e d\u00b4Orsay"
+          },
+          {
+            "language": "et",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "sv": [
+          {
+            "language": "sv",
+            "value": "Mus\u00e9e d\u00b4Orsay"
+          },
+          {
+            "language": "sv",
+            "value": "Mus\u00e9e d'Orsay"
+          },
+          {
+            "language": "sv",
+            "value": "Gare d'Orsay"
+          }
+        ],
+        "is": [
+          {
+            "language": "is",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "ru": [
+          {
+            "language": "ru",
+            "value": "\u041c\u0443\u0437\u0435\u0439 \u041e\u0440\u0441\u0435\u0439"
+          },
+          {
+            "language": "ru",
+            "value": "\u041e\u0440\u0441\u044d\u0439"
+          },
+          {
+            "language": "ru",
+            "value": "\u041c\u0443\u0437\u0435\u0439 \u0434'\u041e\u0440\u0441\u044d"
+          },
+          {
+            "language": "ru",
+            "value": "\u041e\u0440\u0441\u044d"
+          },
+          {
+            "language": "ru",
+            "value": "\u041c\u0443\u0437\u0435\u0439 \u041e\u0440\u0441\u044d"
+          },
+          {
+            "language": "ru",
+            "value": "\u0414'\u041e\u0440\u0441\u044d"
+          }
+        ],
+        "tr": [
+          {
+            "language": "tr",
+            "value": "Musee d'Orsay"
+          },
+          {
+            "language": "tr",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "mk": [
+          {
+            "language": "mk",
+            "value": "\u0555\u0580\u057d\u0565 \u0569\u0561\u0576\u0563\u0561\u0580\u0561\u0576"
+          },
+          {
+            "language": "mk",
+            "value": "\u0cae\u0ccd\u0caf\u0cc2\u0cb8\u0cbf \u0ca6\u0ccd'\u0c93\u0cb0\u0ccd\u0cb8\u0cc6"
+          },
+          {
+            "language": "mk",
+            "value": "Mus\u00e9 d'Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "Orse muzeyi"
+          },
+          {
+            "language": "mk",
+            "value": "\u041c\u0443\u0437\u0435\u0458 \u041e\u0440\u0441\u0435\u0458"
+          },
+          {
+            "language": "mk",
+            "value": "Mus\u00e9e d\u2019Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "Mirdi Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "Muzee n Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "Ors\u0117 muziejus"
+          },
+          {
+            "language": "mk",
+            "value": "\u30aa\u30eb\u30bb\u30fc\u7f8e\u8853\u9928"
+          },
+          {
+            "language": "mk",
+            "value": "\u0913\u0930\u094d\u0938\u0947 \u0938\u0902\u0917\u094d\u0930\u0939\u093e\u0932\u092f"
+          },
+          {
+            "language": "mk",
+            "value": "\u041c\u0443\u0437\u0435\u0439 \u0410\u0440\u0441\u044d"
+          },
+          {
+            "language": "mk",
+            "value": "Mus\u00e8e d'u Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "Museu de Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "\u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u039f\u03c1\u03c3\u03ad"
+          },
+          {
+            "language": "mk",
+            "value": "Mus\u00e8u d'Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "Orsay muzeyi"
+          },
+          {
+            "language": "mk",
+            "value": "\u041c\u0443\u0437\u0435\u0439 \u0434\u2019\u041e\u0440\u0441\u0435"
+          },
+          {
+            "language": "mk",
+            "value": "Musee d'u Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "\u0645\u0648\u0632\u0647 \u0627\u0648\u0631\u0633\u06cc"
+          },
+          {
+            "language": "mk",
+            "value": "\u041e\u0440\u0441\u0435\u0458"
+          },
+          {
+            "language": "mk",
+            "value": "Muzeul Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "Orsay-minjasafni\u00f0"
+          },
+          {
+            "language": "mk",
+            "value": "Muzej d'Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "\u10dd\u10e0\u10e1\u10d4\u10d8\u10e1 \u10db\u10e3\u10d6\u10d4\u10e3\u10db\u10d8"
+          },
+          {
+            "language": "mk",
+            "value": "Museum Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "\uc624\ub974\uc138 \ubbf8\uc220\uad00"
+          },
+          {
+            "language": "mk",
+            "value": "\u0645\u062a\u062d\u0641 \u0623\u0648\u0631\u0633\u064a\u0647"
+          },
+          {
+            "language": "mk",
+            "value": "Orsay muuseum"
+          },
+          {
+            "language": "mk",
+            "value": "\u5965\u8d5b\u535a\u7269\u9986"
+          },
+          {
+            "language": "mk",
+            "value": "Orsay museoa"
+          },
+          {
+            "language": "mk",
+            "value": "Museo d'Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "Ors\u0113 muzejs"
+          },
+          {
+            "language": "mk",
+            "value": "Orsay M\u00fczesi"
+          },
+          {
+            "language": "mk",
+            "value": "Di,orsais. zei muzga"
+          },
+          {
+            "language": "mk",
+            "value": "Museo ng Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "\u041c\u0443\u0437\u0435\u0439 \u0434'\u041e\u0440\u0441\u0435"
+          },
+          {
+            "language": "mk",
+            "value": "\u09ae\u09c1\u099c\u09c7 \u09a6\u09b0\u09cd\u09b8\u09c7"
+          },
+          {
+            "language": "mk",
+            "value": "Museu d'Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "Mus\u00e9e d'Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "Muzeya Orsay\u00ea"
+          },
+          {
+            "language": "mk",
+            "value": "\u0d2e\u0d41\u0d38\u0d40 \u0d21\u0d3f\u0d13\u0d34\u0d4d\u0d38\u0d47"
+          },
+          {
+            "language": "mk",
+            "value": "\u0e1e\u0e34\u0e1e\u0e34\u0e18\u0e20\u0e31\u0e13\u0e11\u0e4c\u0e2d\u0e2d\u0e23\u0e4c\u0e41\u0e0b"
+          },
+          {
+            "language": "mk",
+            "value": "Jeexiituwaay bu Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "B\u1ea3o t\u00e0ng Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "Museum d'Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "\u041e\u0440\u0441\u044d \u043c\u0443\u0437\u0435\u0439"
+          },
+          {
+            "language": "mk",
+            "value": "Museo de Orsay"
+          },
+          {
+            "language": "mk",
+            "value": "\u041c\u0443\u0437\u0435\u0439 \u041e\u0440\u0441\u0435"
+          },
+          {
+            "language": "mk",
+            "value": "\u041b\u0443\u0432\u0440 \u043c\u0443\u0437\u0435\u0439\u0438"
+          },
+          {
+            "language": "mk",
+            "value": "\u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d3'\u05d0\u05d5\u05e8\u05e1\u05d4"
+          },
+          {
+            "language": "mk",
+            "value": "Muzeo d'Orsay"
+          }
+        ],
+        "io": [
+          {
+            "language": "io",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "nan": [
+          {
+            "language": "nan",
+            "value": "Orsay Phok-bu\u030dt-ko\u00e1n"
+          },
+          {
+            "language": "nan",
+            "value": "Orsay Phok-bu\u030dt-k\u00f3an"
+          },
+          {
+            "language": "nan",
+            "value": "Orsay B\u00ed-su\u030dt-k\u00f3an"
+          },
+          {
+            "language": "nan",
+            "value": "Orsay B\u00ed-su\u030dt-ko\u00e1n"
+          }
+        ],
+        "kab": [
+          {
+            "language": "kab",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "fr": [
+          {
+            "language": "fr",
+            "value": "Mus\u00e9e d\u2019Orsay"
+          },
+          {
+            "language": "fr",
+            "value": "Musee d'Orsay"
+          }
+        ],
+        "ko": [
+          {
+            "language": "ko",
+            "value": "\uc624\ub974\uc138\uc774 \ubc15\ubb3c\uad00"
+          },
+          {
+            "language": "ko",
+            "value": "\uc624\ub974\uc138\ubbf8\uc220\uad00"
+          },
+          {
+            "language": "ko",
+            "value": "\uc624\ub974\uc138\uc774 \ubbf8\uc220\uad00"
+          },
+          {
+            "language": "ko",
+            "value": "\uc624\ub974\uc138\ubc15\ubb3c\uad00"
+          },
+          {
+            "language": "ko",
+            "value": "\uc624\ub974\uc138 \ubc15\ubb3c\uad00"
+          }
+        ],
+        "lv": [
+          {
+            "language": "lv",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "de": [
+          {
+            "language": "de",
+            "value": "Gare d'Orsay"
+          },
+          {
+            "language": "de",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "scn": [
+          {
+            "language": "scn",
+            "value": "Museu d'Orsay"
+          }
+        ],
+        "en": [
+          {
+            "language": "en",
+            "value": "Orsay museum"
+          },
+          {
+            "language": "en",
+            "value": "Museum of Orsay"
+          },
+          {
+            "language": "en",
+            "value": "Mus\u00e9e D\u2019Orsay"
+          },
+          {
+            "language": "en",
+            "value": "Musee D'Orsay"
+          },
+          {
+            "language": "en",
+            "value": "D\u2019Orsay"
+          },
+          {
+            "language": "en",
+            "value": "Mus\u00e9e d Orsay"
+          },
+          {
+            "language": "en",
+            "value": "Mus\u0117e d'Orsay"
+          },
+          {
+            "language": "en",
+            "value": "Mus\u00e9e dOrsay"
+          },
+          {
+            "language": "en",
+            "value": "Musee d Orsay"
+          },
+          {
+            "language": "en",
+            "value": "Musee dOrsay"
+          }
+        ],
+        "kn": [
+          {
+            "language": "kn",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "cv": [
+          {
+            "language": "cv",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "ro": [
+          {
+            "language": "ro",
+            "value": "Muzeul d'Orsay"
+          },
+          {
+            "language": "ro",
+            "value": "Muzeul Orsay"
+          }
+        ],
+        "fa": [
+          {
+            "language": "fa",
+            "value": "\u0645\u0648\u0632\u0647\u0654 \u0627\u0648\u0631\u0633\u06cc"
+          }
+        ],
+        "ka": [
+          {
+            "language": "ka",
+            "value": "\u10d3\u2019\u10dd\u10e0\u10e1\u10d4\u10e1 \u10db\u10e3\u10d6\u10d4\u10e3\u10db\u10d8"
+          },
+          {
+            "language": "ka",
+            "value": "\u10d3'\u10dd\u10e0\u10e1\u10d4\u10e1 \u10db\u10e3\u10d6\u10d4\u10e3\u10db\u10d8"
+          }
+        ],
+        "lt": [
+          {
+            "language": "lt",
+            "value": "Oran\u017eerijos muziejus"
+          },
+          {
+            "language": "lt",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "ilo": [
+          {
+            "language": "ilo",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ],
+        "nb": [
+          {
+            "language": "nb",
+            "value": "Musee d'Orsay"
+          }
+        ],
+        "id": [
+          {
+            "language": "id",
+            "value": "Mus\u00e9e d'Orsay"
+          }
+        ]
+      },
+      "claims": {
+        "P1151": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1151",
+              "hash": "b758527759f904d2d1c37adaf2297d1ecc5a8b55",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 15904260,
+                  "id": "Q15904260"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$98443451-45f2-e070-4977-6fe9f213e0d9",
+            "rank": "normal"
+          }
+        ],
+        "P268": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P268",
+              "hash": "f7a2600bd3b1773095ca7119eab6a9de678fdeda",
+              "datavalue": {
+                "value": "11990767x",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$7ec8fba0-4ea7-e1d5-da07-a40de9a35a97",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "91e8fe12024043d4eaf429eb21f38f425a7e4684",
+              "datavalue": {
+                "value": "Mus\u00e9e d'Orsay",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "q23402$CBB63A16-67B5-4135-9277-98B8400F9456",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "bbf94267bf43bed2caf5c2e1b6e8de49e8b4f029",
+              "datavalue": {
+                "value": "MuseeDOrsay.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q23402$c1e71b58-4adf-5ee3-fcd1-95fc51b0ea0e",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "2bf3e17c189a0ba25556a52704df26bb797fa115",
+              "datavalue": {
+                "value": "Mus\u00e9e d'Orsay, North-West view, Paris 7e 140402.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q23402$95507aac-4c8e-abd8-f49b-b7bb725464bf",
+            "rank": "preferred"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "786fa018450da763d0ba53abc96ac7b4a385e503",
+              "datavalue": {
+                "value": "Musee d'Orsay and Pont Royal, North-West view 140402 1.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q23402$51881293-4e59-987b-dd8b-f425ec91b339",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "18bae8b0e25431039bd27b07ede001bd10606f3e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 207694,
+                  "id": "Q207694"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$575882F1-0CB1-4FF5-B126-0A26689E2A99",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "016a2f435b620179b8c6ee1701a98d5713ee0bbe",
+                "snaks": {
+                  "P5383": [
+                    {
+                      "snaktype": "value",
+                      "property": "P5383",
+                      "hash": "e5a47935510f4b010cf36c2350f52762edef1703",
+                      "datavalue": {
+                        "value": "1134",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "c619cc6e0e5fe3733a8c4a47939343e5970e0e9d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 265049,
+                          "id": "Q265049"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6d14dc9d94cb9d5db17d8dcf3b67af81b57ccff1",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-07-31T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P5383",
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P361": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P361",
+              "hash": "8eab5ee93280fe3c8c5c61ff5288c5ff6478050f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13380294,
+                  "id": "Q13380294"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q23402$2a8bd026-4e9c-03bd-645d-cf00bf50fbf7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "b55bbe5e5eea81ad5edf6c6c57e89a7554d037e5",
+                "snaks": {
+                  "P464": [
+                    {
+                      "snaktype": "value",
+                      "property": "P464",
+                      "hash": "cc4630b44b3228d353b96dffec48004a0a23b429",
+                      "datavalue": {
+                        "value": "MCCB0300911D",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "b45c4ac5de17244dd0c909feaa52a28c77600bf3",
+                      "datavalue": {
+                        "value": {
+                          "text": "D\u00e9cret n\u00b0 2003-1300 du 26 d\u00e9cembre 2003 portant cr\u00e9ation de l'Etablissement public du mus\u00e9e d'Orsay",
+                          "language": "fr"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P585": [
+                    {
+                      "snaktype": "value",
+                      "property": "P585",
+                      "hash": "26e232c91c93d14ffd566698ea1a873137ef71bf",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-12-26T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "6654ed78f8152ca1bafc144b7f27e707f8a66342",
+                      "datavalue": {
+                        "value": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000611798&fastPos=1&fastReqId=640749762&categorieLien=id&oldAction=rechTexte",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P464",
+                  "P1476",
+                  "P585",
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "828611e228b508e3c8bc1fe5976e5db8115c177d",
+              "datavalue": {
+                "value": "130307757",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q23402$aaa4912b-47a3-f5e8-c34c-69029bc381a2",
+            "rank": "normal"
+          }
+        ],
+        "P691": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P691",
+              "hash": "6d5a85ed72e77c10913df9b6684603163fc3513d",
+              "datavalue": {
+                "value": "kn20010710551",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q23402$D4AFC24A-80FC-4B8F-9FD2-A417A6E80A42",
+            "rank": "normal"
+          }
+        ],
+        "P910": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P910",
+              "hash": "4004f1e0e8d690d8fe0292342763140a6f5e1cba",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 9032849,
+                  "id": "Q9032849"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$5E9DF904-190D-481A-B042-821B1C922103",
+            "rank": "normal"
+          }
+        ],
+        "P539": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P539",
+              "hash": "c1e240d675bcffd05711d070c06a4cd219cf8206",
+              "datavalue": {
+                "value": "M5060",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$cc5b6939-417d-08b1-d9f5-3c7f1a835fa9",
+            "rank": "normal"
+          }
+        ],
+        "P669": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P669",
+              "hash": "10614097f6add7f81b7744826670f54547e3bd2f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3450813,
+                  "id": "Q3450813"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P670": [
+                {
+                  "snaktype": "value",
+                  "property": "P670",
+                  "hash": "4df1c89e60a9967129d15e770e7d9ad0ae72e98e",
+                  "datavalue": {
+                    "value": "62",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P670"
+            ],
+            "id": "Q23402$d396c74a-4f54-bf40-4933-125b340cca4a",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a91acd430773ad3021166f610856d10f491c5cf1",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "bbc57a83f62ba098adb8b547d876321001522419",
+                      "datavalue": {
+                        "value": "http://www.musee-orsay.fr/fr/info/contact.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P669",
+              "hash": "d0bf62d5ffebf363375e7669bdcc47f54c83c014",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3450565,
+                  "id": "Q3450565"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P670": [
+                {
+                  "snaktype": "value",
+                  "property": "P670",
+                  "hash": "ea704489ca9e1ac8bcf75cf174cd436b5bfbb64f",
+                  "datavalue": {
+                    "value": "1",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P670"
+            ],
+            "id": "Q23402$332c88b2-4a5e-ff66-723d-0bf7be5fec7d",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "ca1f8067ff9b50ddd35b12a681a5bc3ea315c05b",
+                "snaks": {
+                  "P539": [
+                    {
+                      "snaktype": "value",
+                      "property": "P539",
+                      "hash": "c1e240d675bcffd05711d070c06a4cd219cf8206",
+                      "datavalue": {
+                        "value": "M5060",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P539"
+                ]
+              }
+            ]
+          }
+        ],
+        "P281": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P281",
+              "hash": "b8a4a6d7eb17570e1d1ee3672b230cf6b5f5b74e",
+              "datavalue": {
+                "value": "75343",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q23402$623a8ba3-49ba-57cb-4cf4-7765f20a83db",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a91acd430773ad3021166f610856d10f491c5cf1",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "bbc57a83f62ba098adb8b547d876321001522419",
+                      "datavalue": {
+                        "value": "http://www.musee-orsay.fr/fr/info/contact.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "514bf214d8fa9998821ad033c6a984c3917b4066",
+              "datavalue": {
+                "value": "/m/0f3b9",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$92161AB0-0E1A-4462-8954-F190697B6FAB",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15241312,
+                          "id": "Q15241312"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P577": [
+                    {
+                      "snaktype": "value",
+                      "property": "P577",
+                      "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P577"
+                ]
+              }
+            ]
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "9815fd6c03cf692b3ab239c8527ec4188a7e6bd3",
+              "datavalue": {
+                "value": {
+                  "time": "+1986-01-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q23402$aa5fed63-4bda-b7ed-7655-23a0794f45a1",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "ca4ac01aeee304454dca8f237963564a9ab9a7cc",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "e21df289173973f30ff2654e804c49c6db408061",
+                      "datavalue": {
+                        "value": "https://commons.wikimedia.org/wiki/Institution:Mus%C3%A9e_d%27Orsay",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P349": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P349",
+              "hash": "0fc05b988a690ed21612a8f9cefa7d41cbecdfe9",
+              "datavalue": {
+                "value": "00359473",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$386A62A7-78B1-4181-8AD7-CF48B7258C8F",
+            "rank": "normal"
+          }
+        ],
+        "P245": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P245",
+              "hash": "1c8b20482b23fa813ae3bbc5e7ad00bd238e1120",
+              "datavalue": {
+                "value": "500310001",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$296AF6D1-016B-4CC1-B38F-72EEC28D3C97",
+            "rank": "normal"
+          }
+        ],
+        "P1005": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1005",
+              "hash": "208a771da91c83caec64e26e15d116ef1ae01a2b",
+              "datavalue": {
+                "value": "220819",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$89BE3D63-54BE-40A5-9FF9-7211D3D723CC",
+            "rank": "normal"
+          }
+        ],
+        "P1017": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1017",
+              "hash": "020c01b96da11f5d017a8d297fa93ecdea1f6eea",
+              "datavalue": {
+                "value": "ADV10036166",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$FA7AB8A0-9E6E-4068-922A-3B05B7CE0674",
+            "rank": "normal"
+          }
+        ],
+        "P213": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P213",
+              "hash": "7b78c1c88e24ff5a716bdfe3c17d562be5e460f2",
+              "datavalue": {
+                "value": "0000 0001 2157 2575",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$C80D70CD-B189-4E08-9439-49C23A10B420",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P213",
+              "hash": "2b4d7552f1807b6403ad8e32b8cf5c17c5600426",
+              "datavalue": {
+                "value": "0000 0004 0645 1902",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$4C620E55-7271-4F4C-BBA7-A73DC86FD2E7",
+            "rank": "normal"
+          }
+        ],
+        "P950": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P950",
+              "hash": "48b633cdd5a48e50b830c705a5dcdfe08be9f9c9",
+              "datavalue": {
+                "value": "XX144415",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$3AA6C0E2-4473-4702-8FDC-E5D4F0B59C18",
+            "rank": "normal"
+          }
+        ],
+        "P244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P244",
+              "hash": "eccf96b8dfcdbc568b6edd89d0fc0a44f00354e8",
+              "datavalue": {
+                "value": "n84128587",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$DD4BE303-02C8-4D32-87F1-C3C53F63138B",
+            "rank": "normal"
+          }
+        ],
+        "P409": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P409",
+              "hash": "9d28bb4e8a1acd649d28283a9f34125b4042b90f",
+              "datavalue": {
+                "value": "36024323",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$6D5BDD9F-B535-4F76-A9D4-830E8135C784",
+            "rank": "normal"
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "57f5230ebe62c3ba7784b9381120569bf4b194a1",
+              "datavalue": {
+                "value": "667289-9",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$85698f50-42e7-9731-68dd-eb893e292e84",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "c05db5d169c2560b9799d567a803d20a392f53e4",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 142,
+                  "id": "Q142"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$BC1D4A97-04AD-4592-9261-0D1586240DF6",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "bf2de1ecdd9f1e29589dae68b577d20b6208fbeb",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "c619cc6e0e5fe3733a8c4a47939343e5970e0e9d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 265049,
+                          "id": "Q265049"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "1c2aeb96b78dfc88934ce3c410e36af4c25e7c8a",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-07-30T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "89c3309d9722707fb39e2af4cfaa7bc61afa404e",
+              "datavalue": {
+                "value": "http://www.musee-orsay.fr/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q23402$7269E05A-37F8-403A-BAC9-E62A70B06BAE",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1174": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1174",
+              "hash": "204ff6b1d8da7544d50a81e383a8201b40b5c176",
+              "datavalue": {
+                "value": {
+                  "amount": "+3000000",
+                  "unit": "1",
+                  "upperBound": "+4000000",
+                  "lowerBound": "+2000000"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "e4ce1ad4d6c6d0289a402c42bf392b7c735cbc30",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2009-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q23402$976CFBAB-6759-4D5F-8E1C-09CFB86A2F67",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1174",
+              "hash": "eca21dbc3a3f4b54d758ea6071223955396908a5",
+              "datavalue": {
+                "value": {
+                  "amount": "+3480609",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "049bd876bdfea826eaceb6f6056701b74c6d3f08",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2014-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q23402$886a3f48-4e2c-b8fa-68fa-ffdeeded7ca4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1174",
+              "hash": "f55bbc5674dcc62f1297326e41f69433c25a985e",
+              "datavalue": {
+                "value": {
+                  "amount": "+2997622",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "f4e1bbc6e9b3a72c2e1fd3e6061f4c7e7f5acad9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2016-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q23402$e72e8033-4072-c8bd-b848-40ee26c114dc",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "183d7c610ab7adc19f034186d733a4a964970b02",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "e40d2f78a61416cf1a901447019ab9f65a7495b9",
+                      "datavalue": {
+                        "value": "http://www.musee-orsay.fr/fr/collections/histoire-du-musee/quelques-chiffres.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "0758d9d3447a53d63f0c1ea57d235b6aa2654f80",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-04-30T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1273": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1273",
+              "hash": "4c6d92bcdf2912347e106875f4de3af82588b71d",
+              "datavalue": {
+                "value": "a10961951",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$9B8D64AF-AD90-420E-8FF8-12B967FCFD42",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "7971bfe5c23898542aad30c28162022807818690",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "86f3c76f30edd0771af1ee08850838cd5bca091e",
+                      "datavalue": {
+                        "value": "https://viaf.org/viaf/130307757/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P137": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P137",
+              "hash": "848f6c78e40cec5fdff3bb8c6cabe26a8171c985",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3480397,
+                  "id": "Q3480397"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$DA86128A-6741-4475-88BE-3B42DE42EBF4",
+            "rank": "normal"
+          }
+        ],
+        "P1566": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1566",
+              "hash": "3a1a5a9c76d51518e7f546cf5174425dae39ad4a",
+              "datavalue": {
+                "value": "6452693",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$97F23826-3F1C-45D7-ABF2-A3EDC0BEF072",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "88694a0f4d1486770c269f7db16a1982f74da69d",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "1b3ef912a2bd61e18dd43abd184337eb010b2e96",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 830106,
+                          "id": "Q830106"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1612": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1612",
+              "hash": "0eea2a1c377dc8de94d1c11c224e1af69ad18993",
+              "datavalue": {
+                "value": "Mus\u00e9e d'Orsay",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q23402$F92C79C4-8CA9-4306-9CE2-84D2B9F34212",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "e71a7903858496c67eea189a7084d5559f788edb",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5d3b16d350189b0a81818758208505444c86c127",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 565,
+                          "id": "Q565"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2002": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2002",
+              "hash": "8352a8970510931b192b0d797ea50c3cde933a2a",
+              "datavalue": {
+                "value": "MuseeOrsay",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3744": [
+                {
+                  "snaktype": "value",
+                  "property": "P3744",
+                  "hash": "79fbcd64efca611c50798e18582f9b508b70994b",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+678588",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3744"
+            ],
+            "id": "Q23402$1D5E2B45-E472-433A-81D9-5F0C8F97E293",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "830e0d3d65e6b91e769889d7d1177706b5c1e0ca",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "cd8210fc3215a6112ebad72d11663d1a56b14d67",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-05-10T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2013": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2013",
+              "hash": "871d7b2243f50954553ac9bd3cd832bc1d9d04ce",
+              "datavalue": {
+                "value": "museedorsay",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$575C178B-22D2-48B1-9311-6CC4F2E77A88",
+            "rank": "normal"
+          }
+        ],
+        "P2342": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2342",
+              "hash": "3167d1da983edaba70c5bfe0485c229e50c12033",
+              "datavalue": {
+                "value": "142069",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$a1eabb73-4de4-ede4-774e-51ca5cf38a6b",
+            "rank": "normal"
+          }
+        ],
+        "P112": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P112",
+              "hash": "fe7676aa0b1eeb7128a0d38f442b2c5aabb30457",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2038,
+                  "id": "Q2038"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$F4804E8B-F3E8-4D76-803D-E791981E8BFA",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P112",
+              "hash": "1340f524b5a20df1d4b4fb86ac1c63bd83b9a8fb",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2124,
+                  "id": "Q2124"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$C597BDBE-7870-4930-9FB1-28121D7B09B9",
+            "rank": "normal"
+          }
+        ],
+        "P166": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P166",
+              "hash": "3b3a5e579975b43ae71a7448d948603ef30fd941",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 838121,
+                  "id": "Q838121"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "ba4e903e603892e17bd9796e98b823725cab176a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2004-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P1686": [
+                {
+                  "snaktype": "value",
+                  "property": "P1686",
+                  "hash": "0ec6530518fbabfb22d117f360e1dee0a03435ae",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5599745,
+                      "id": "Q5599745"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585",
+              "P1686"
+            ],
+            "id": "Q23402$B541FA11-81B8-4744-9162-A437D5A65C31",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P166",
+              "hash": "3b3a5e579975b43ae71a7448d948603ef30fd941",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 838121,
+                  "id": "Q838121"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "2c189c7c872983bd10a28e2acfc03f5c3738d76d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2003-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P1686": [
+                {
+                  "snaktype": "value",
+                  "property": "P1686",
+                  "hash": "0ec6530518fbabfb22d117f360e1dee0a03435ae",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5599745,
+                      "id": "Q5599745"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1346": [
+                {
+                  "snaktype": "value",
+                  "property": "P1346",
+                  "hash": "0942968f9ddd66f37eb5e70f9bd3c96ac38a326c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 212128,
+                      "id": "Q212128"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P1346",
+                  "hash": "2c9632fd2eb3247b7e7594219744034b543f195f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 283339,
+                      "id": "Q283339"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P1346",
+                  "hash": "17ff4cdb0ae59f9321899b385fc754cb9401e009",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 8073,
+                      "id": "Q8073"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P1346",
+                  "hash": "cd011980c39d0d3ce19ca14f1552762e420019b9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 278637,
+                      "id": "Q278637"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P1346",
+                  "hash": "92780b372588f198b866e0aac2012895ff08ab29",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 3120960,
+                      "id": "Q3120960"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P1346",
+                  "hash": "fa2662efa84ff006e370c2ffadd7e7ec70b0110d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 9531,
+                      "id": "Q9531"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P1346",
+                  "hash": "3e124be9a159ae1fdf58f0475dbb045048fc576b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 215363,
+                      "id": "Q215363"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P1346",
+                  "hash": "4d21bba57e9cdb2062d41bb3616423237867b98b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1691183,
+                      "id": "Q1691183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P1346",
+                  "hash": "62e9d360ef28ee80fd59eea3d1ea65d624d8daa7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 262386,
+                      "id": "Q262386"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P1346",
+                  "hash": "f0c21e7c94833ddb781dd83c395aa194b0c84aef",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 215616,
+                      "id": "Q215616"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585",
+              "P1686",
+              "P1346"
+            ],
+            "id": "Q23402$154804D3-4B2A-4B82-953C-AE72C93CEA32",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P166",
+              "hash": "b8da55500d1382ee714544ab7ae82c042d7219ed",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2275045,
+                  "id": "Q2275045"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$6AEB8F7C-5A52-4581-B4CD-AD4F73D6D12B",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P166",
+              "hash": "bc9eb1f0a0a3054a19e68c47fca0c8cd21e84c03",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30282398,
+                  "id": "Q30282398"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "9ef7f99b41c28cf258cbce173bea2317c62abaf2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2005-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q23402$4c9b517e-4c09-2496-1300-b989572310e9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "f61db7a5634b58b7bab937a6a646ab6a62cddf52",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7204e1eb371bdd3bb6b7442ed70e28c276b71398",
+                      "datavalue": {
+                        "value": "http://dgcisth.armadillo.fr/app/photopro.sk/handicap/detail?docid=83502",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              },
+              {
+                "hash": "7472ab10afc2d04ff7237b013473fc9fc313659e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "d41b9fae329e1d3810de5388c5c4e3e5426b82b2",
+                      "datavalue": {
+                        "value": "http://www.musee-orsay.fr/fr/espace-particuliers/particuliers/accessibilite/bienvenue.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2003": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2003",
+              "hash": "2a717cc43fd8985aa596e501abcd3185ec64ff8c",
+              "datavalue": {
+                "value": "museeorsay",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$da27a335-41c3-68d7-82b4-22916d935661",
+            "rank": "normal"
+          }
+        ],
+        "P3134": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3134",
+              "hash": "5efc644d3e275adcd3cdb28aa49889219376d3ee",
+              "datavalue": {
+                "value": "g187147-d188150",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$2a88ce5c-49d1-41dd-d295-7ffbdb04250c",
+            "rank": "normal"
+          }
+        ],
+        "P488": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P488",
+              "hash": "c7e3be1ee69e829ff0525e9a393b8dfdee83bbbf",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3121665,
+                  "id": "Q3121665"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "7969a5f0637d673180920d5175931a3406aed4b7",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2008-03-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "7cd3d81464da95f62e2b0ae1344e8dec1128e2f6",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2017-02-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q23402$cff0d717-458f-ded2-51b1-e5337b07d248",
+            "rank": "preferred"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P488",
+              "hash": "d16b9dbafddb57564efdd4ea62dda73a28b36d89",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3479410,
+                  "id": "Q3479410"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "6e994fd751ddde6e56265ba2ff044556c276acda",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2001-11-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "b0806635f46c844e14af2c66ba0ce5b19f4ba8c5",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2008-03-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q23402$58379024-4c2d-597f-0874-c7e2d92d66e1",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P488",
+              "hash": "e52a3ee84833913017f88e371d5bd95eb0d14bdf",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2743768,
+                  "id": "Q2743768"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "918689f013a69abaff8a822b2ef4410d2bcf3a43",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1994-08-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "bf744c96f3c7db1a1e4c8ae00743aa2594665fb8",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2001-04-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q23402$50f24727-4a78-910c-821c-884382b29eb6",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P488",
+              "hash": "37bbf676f7acf3d5c61a8e746feebfcbd6ef5880",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 433981,
+                  "id": "Q433981"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "46d5923b24f1d46c3a62df03db65f9ba657f9b62",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1986-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "c52610cf2484d0ad6653d33766c3606e3e67ec6f",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1994-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q23402$bdad7bff-4f09-dc0c-f49c-16b0da56998a",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P488",
+              "hash": "fda99ca88b2d451a96b042b95c262fb3b683b230",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 14626534,
+                  "id": "Q14626534"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "d26fb0f0e3a35fa6d0be14b54cf3d5f96d74ea29",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2017-02-27T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q23402$c3cb19db-411b-02ea-85df-57a2ca8401cf",
+            "rank": "preferred"
+          }
+        ],
+        "P2924": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2924",
+              "hash": "96aa59d5430059fdf6eab0b349ed80ebcb7cf709",
+              "datavalue": {
+                "value": "2694734",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$ba84e5eb-4d31-8dcd-599f-32c0dcfd292a",
+            "rank": "normal"
+          }
+        ],
+        "P3417": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3417",
+              "hash": "295d74a52bb8a0865ad8237908495ad77af64865",
+              "datavalue": {
+                "value": "Mus\u00e9e-dOrsay",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$7CCEF847-668C-4FA4-A4B2-9665F509FB4E",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 51711,
+                          "id": "Q51711"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1619": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1619",
+              "hash": "56bfad511bfb5cbaa0347744858d351c5f3d19f4",
+              "datavalue": {
+                "value": {
+                  "time": "+1986-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q23402$78F9F1FB-AD87-4225-8046-A6F23AB7A1AF",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P276": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P276",
+              "hash": "32020449d17ccc1686db926acb1a1206084ca157",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2698691,
+                  "id": "Q2698691"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$d64e04c7-4413-d568-efc7-583a9d744adb",
+            "rank": "preferred"
+          }
+        ],
+        "P4146": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4146",
+              "hash": "4680f84ac21708088f2d9b2c0849b7e764fd0a2f",
+              "datavalue": {
+                "value": "127",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$6DC4AF6E-A19B-4D9F-B168-BC462382FAA7",
+            "rank": "normal"
+          }
+        ],
+        "P1476": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1476",
+              "hash": "cd819e6f58bd97e6f9703ff5fff9d770a6b0c451",
+              "datavalue": {
+                "value": {
+                  "text": "Mus\u00e9e d\u2019Orsay",
+                  "language": "fr"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q23402$85001fb6-4c67-e834-856e-ac75003a487d",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P935": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P935",
+              "hash": "016fe5b054fe469e61ee965f7a62b993f0bba5a5",
+              "datavalue": {
+                "value": "Mus\u00e9e d'Orsay",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q23402$7B178CD7-1BAA-4E1B-9225-AB522180E441",
+            "rank": "normal"
+          }
+        ],
+        "P1417": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1417",
+              "hash": "e4daa40ab2e9dc2f80553ebecd465d555d7ef9b6",
+              "datavalue": {
+                "value": "topic/Orsay-Museum",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$92032774-5C56-46ED-8348-EA1325B3C94E",
+            "rank": "normal"
+          }
+        ],
+        "P1687": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1687",
+              "hash": "574e3586b19fa277e5f780493bf8c55e0b5c420b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 2268,
+                  "id": "P2268"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            "type": "statement",
+            "id": "Q23402$bfca5bd4-44be-1c4c-3566-4af94b843bca",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1687",
+              "hash": "631ee62e002b08db8e30773338264b4fcbbfec91",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 4659,
+                  "id": "P4659"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            "type": "statement",
+            "id": "Q23402$67036b3f-4d4d-a182-edf9-ddebd47656b3",
+            "rank": "normal"
+          }
+        ],
+        "P4702": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4702",
+              "hash": "796e98ab165ac3e1c6f134fbf6aeb9c0971a30bb",
+              "datavalue": {
+                "value": "musee-dorsay-paris",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$275fed9e-47c0-1d6f-366e-afb1d4a3b1ae",
+            "rank": "normal"
+          }
+        ],
+        "P3222": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3222",
+              "hash": "4eb569f22f35040870448d72a7da304887754f55",
+              "datavalue": {
+                "value": "musee-d-orsay",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$AC2EF8DA-1555-46DB-B3A5-034B285CCE4B",
+            "rank": "normal"
+          }
+        ],
+        "P3599": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3599",
+              "hash": "b9d42198bf10fa55838bd04f847f7efc065c9e22",
+              "datavalue": {
+                "value": "FRAN_NP_005227",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$A0584244-67CC-4461-B1AC-D44AC9E5775D",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3599",
+              "hash": "f2253f742e75baa8f0c0c7042e37e914880cfc93",
+              "datavalue": {
+                "value": "FRAN_NP_005229",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$B83785BF-C4A8-4E24-A63E-EEA94979B01A",
+            "rank": "normal"
+          }
+        ],
+        "P5361": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5361",
+              "hash": "6cc37df96b344faa38c1bac5d3a23bb57f9793f1",
+              "datavalue": {
+                "value": "Mus%C3%A9edOrsay",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$05AA656B-F002-4A2D-BD3C-91D21957BB8B",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5361",
+              "hash": "8ca165242f7979d2440f7ef567c63fedb5980cb9",
+              "datavalue": {
+                "value": "Mus\u00e9edOrsay",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$A219F353-47F8-4199-A1D2-0E4A071AF636",
+            "rank": "normal"
+          }
+        ],
+        "P5383": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5383",
+              "hash": "e5a47935510f4b010cf36c2350f52762edef1703",
+              "datavalue": {
+                "value": "1134",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$ECAF6D84-3ECD-4ED6-BCFB-B0E258E79306",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fc5c0700e4ea82f652ee81db5553c3a44446a105",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "bb385bc908e4615b60c060310f5723f66c443109",
+                      "datavalue": {
+                        "value": "https://www.archinform.net/service/wd_aipro.php",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "775e4bc3406f34d4db423a7a92abe6c7af78a5e1",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-07-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P269": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P269",
+              "hash": "d61a585c78db34ae06a73696a6cd5343c1975f82",
+              "datavalue": {
+                "value": "027980227",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$13FF3598-D973-4A60-B3FF-AA2699DA24C8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "5a858a70d6ac562123c1debf25a5aed93a5c4939",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "def9f19d84b65167a2a17ce38364d264c16127fc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 19938912,
+                          "id": "Q19938912"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "97aefaac0484eca89d5fee539362dc40c533824e",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2015-08-26T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P5490": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5490",
+              "hash": "d64b1bade9f2163b88dc1a1cfa9f9d032f8e3e61",
+              "datavalue": {
+                "value": "5719",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$6a064cec-4ec1-cdd4-718d-6b27edc93426",
+            "rank": "normal"
+          }
+        ],
+        "P2397": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2397",
+              "hash": "c358f02b1d345394bc7c0006075df01d9fa0cab0",
+              "datavalue": {
+                "value": "UCXTRjVOyW2p9pWGuJS1GCLg",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$1c1a79f3-4769-2a0b-10bd-266a2b3ff2bd",
+            "rank": "normal"
+          }
+        ],
+        "P1296": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1296",
+              "hash": "9af203261093a064d268fdfeb60a05ea3ec8b548",
+              "datavalue": {
+                "value": "0047761",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$5B83E730-3C4D-4CB9-A098-BEDCD5DA7C8C",
+            "rank": "normal"
+          }
+        ],
+        "P6155": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6155",
+              "hash": "68dcf9a31e29ee0477de8f4fdad98187a146b44f",
+              "datavalue": {
+                "value": "musee-dorsay",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$F14A51BF-ACF4-411F-A035-1046F44D24FB",
+            "rank": "normal"
+          }
+        ],
+        "P1830": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1830",
+              "hash": "035f5073c6b9f54e565ec0fbe0f50234fb62b26e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 57548668,
+                  "id": "Q57548668"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$9CFEC206-1190-49F9-BA07-8E6EB05AFB4E",
+            "rank": "normal"
+          }
+        ],
+        "P948": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P948",
+              "hash": "edafffb7645fdff2b6eedd9505b0a76217ab6db9",
+              "datavalue": {
+                "value": "Mus\u00e9e d'Orsay, North-West view, Paris 7e 140402.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q23402$a768fd8c-4f59-fdb9-d0ce-7993b69915c3",
+            "rank": "normal"
+          }
+        ],
+        "P2427": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2427",
+              "hash": "e004f6be0f2dd3ef12848482f43c3d5b4e4ba1cc",
+              "datavalue": {
+                "value": "grid.500689.2",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$3628F6C8-17AE-4264-9410-2A2D0E4A3DC8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a2d3cd12e1622a06c0c8d600661097ec124f2030",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "d1ce563a1390ad4f21bfb48b6ebb9691112cc101",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 59396171,
+                          "id": "Q59396171"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P5775": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5775",
+              "hash": "181fb7c6abe349ba83aeb695542dc98d736fbf2e",
+              "datavalue": {
+                "value": "MuseeOrsay 20070324.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q23402$f1f3c01d-41e3-0a09-28fd-13e175d23b8b",
+            "rank": "normal"
+          }
+        ],
+        "P138": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P138",
+              "hash": "506671302912cab9fe92ad8e13b84f6643486e60",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2698691,
+                  "id": "Q2698691"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$6a992b36-471c-6683-f2f3-6dc9a04de52e",
+            "rank": "normal"
+          }
+        ],
+        "P6334": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6334",
+              "hash": "0a74cff8365b01df6818678e2fd55f93526b910f",
+              "datavalue": {
+                "value": "2C6NU0L9FDT4",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$d33865db-41e4-0f6c-bed9-6618b284ebcf",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "203841b85efd5b75b230c840b65c431e050148f2",
+              "datavalue": {
+                "value": {
+                  "latitude": 48.86,
+                  "longitude": 2.326389,
+                  "altitude": null,
+                  "precision": 1.0e-6,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q23402$bc431ed6-49fa-aba6-d567-e8bcae308235",
+            "rank": "normal"
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "22ac05a1462e2cb078c3eaf435f5ec86f5ab9b19",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 90,
+                  "id": "Q90"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$2f9f9a55-4aa3-c3b0-213a-19bc8b8745f6",
+            "rank": "normal"
+          }
+        ],
+        "P6782": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6782",
+              "hash": "3a96c8f33f0a54704962ac541f2d2ea4718f7cc0",
+              "datavalue": {
+                "value": "01heyg366",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$54D83DC9-0EE0-4AE5-90E2-C9FA4B8B0BA9",
+            "rank": "normal"
+          }
+        ],
+        "P5023": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5023",
+              "hash": "fb04614ad665c7c435acffe9e4d98e3ddc74ea65",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 51728721,
+                  "id": "Q51728721"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "322aee4f5183f2ec652eddc9021117b4d17dc383",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2010-06-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "85ebf02f8b80826a7e6dc78230ef266087006d1f",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2015-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q23402$525c7618-478f-24f6-fc7b-c1adea2c50d2",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1cb3cf6bdda2c253cc19a669118c32e5f5108264",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "8ff9b1c167f33a50d6ae268520857ced382ed9e9",
+                      "datavalue": {
+                        "value": "https://www.franceculture.fr/emissions/le-journal-de-la-culture/peut-ou-non-prendre-des-photos-dans-les-musees",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              },
+              {
+                "hash": "6ed815db74bab744ce976682988c8d4f4c674e3e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "b5466fd5e90274f4bfaf1be33abbd6f0f115d03a",
+                      "datavalue": {
+                        "value": "https://www.lepoint.fr/culture/musees-interdit-de-photographier-22-04-2011-1322535_3.php",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1705": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "2df53ed7f004df0001d11f1073c4010635572d0e",
+              "datavalue": {
+                "value": {
+                  "text": "Mus\u00e9e d\u2019Orsay",
+                  "language": "fr"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q23402$8e4acd93-4143-fcc4-2f6c-18f0c255dd35",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "c6d180362fce99f6d06a76830425a6745c2c1c28",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "ea4c89b0c5877648a9c3265d1270bd85b26dd140",
+                      "datavalue": {
+                        "value": "https://ru.wikipedia.org/?oldid=101662123",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P6262": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6262",
+              "hash": "fbf5e4966c70a8f3e2a8b5c6b6e420a3a41a90a9",
+              "datavalue": {
+                "value": "tardis:Mus\u00e9e_d'Orsay",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$F4C40FE9-C56C-4443-9C35-3E8C786C36A0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a839628532189cc17215c0a2e06f23378ffc645f",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "0fee2bc4b21c9b1e62741767c623e6218142ea06",
+                      "datavalue": {
+                        "value": "https://tardis.fandom.com/wiki/Mus%C3%A9e_d%27Orsay?oldid=2661856",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "8513db67d8bb3e2a38df7bbdb73fd52fa9ed63b5",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-12-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P1810": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1810",
+                      "hash": "83df6d8d6d42e090da220514473bd4333e25f401",
+                      "datavalue": {
+                        "value": "Mus\u00e9e d'Orsay",
+                        "type": "string"
+                      },
+                      "datatype": "string"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813",
+                  "P1810"
+                ]
+              }
+            ]
+          }
+        ],
+        "P7818": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7818",
+              "hash": "9977c97cbe24a7dea8c5badbd8f690cf18095952",
+              "datavalue": {
+                "value": "Mus\u00e9e_d'Orsay",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23402$035B3AE5-73AC-4A76-9CF2-8DBE1E0380AD",
+            "rank": "normal"
+          }
+        ],
+        "P7561": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7561",
+              "hash": "76b7e7d2f208a2cd82388e50078a9442a3f8e393",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 86117262,
+                  "id": "Q86117262"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23402$CB5EAC85-1EB7-43FA-898A-D4C58DB5EEFF",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "afwiki": {
+          "site": "afwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "amwiki": {
+          "site": "amwiki",
+          "title": "\u1219\u12dc \u12f6\u122d\u1230\u12ed",
+          "badges": []
+        },
+        "angwiki": {
+          "site": "angwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "anwiki": {
+          "site": "anwiki",
+          "title": "Museu d'Orsay",
+          "badges": []
+        },
+        "arwiki": {
+          "site": "arwiki",
+          "title": "\u0645\u062a\u062d\u0641 \u0623\u0648\u0631\u0633\u064a\u0647",
+          "badges": []
+        },
+        "astwiki": {
+          "site": "astwiki",
+          "title": "Mus\u00e9u d'Orsay",
+          "badges": []
+        },
+        "azwiki": {
+          "site": "azwiki",
+          "title": "Orse muzeyi",
+          "badges": []
+        },
+        "bewiki": {
+          "site": "bewiki",
+          "title": "\u041c\u0443\u0437\u0435\u0439 \u0410\u0440\u0441\u044d",
+          "badges": []
+        },
+        "bgwiki": {
+          "site": "bgwiki",
+          "title": "\u041c\u0443\u0437\u0435\u0439 \u041e\u0440\u0441\u0435",
+          "badges": []
+        },
+        "bnwiki": {
+          "site": "bnwiki",
+          "title": "\u09ae\u09c1\u099c\u09c7 \u09a6\u09b0\u09cd\u09b8\u09c7",
+          "badges": []
+        },
+        "brwiki": {
+          "site": "brwiki",
+          "title": "Mirdi Orsay",
+          "badges": []
+        },
+        "bswiki": {
+          "site": "bswiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "cawiki": {
+          "site": "cawiki",
+          "title": "Museu d'Orsay",
+          "badges": []
+        },
+        "cebwiki": {
+          "site": "cebwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "cewiki": {
+          "site": "cewiki",
+          "title": "\u041e\u0440\u0441\u0435",
+          "badges": []
+        },
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Muzeum Orsay",
+          "badges": []
+        },
+        "cvwiki": {
+          "site": "cvwiki",
+          "title": "\u041e\u0440\u0441\u0435 \u043c\u0443\u0437\u0435\u0439\u0115",
+          "badges": []
+        },
+        "cywiki": {
+          "site": "cywiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "dawiki": {
+          "site": "dawiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Mus\u00e9e d\u2019Orsay",
+          "badges": []
+        },
+        "elwiki": {
+          "site": "elwiki",
+          "title": "\u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u039f\u03c1\u03c3\u03ad",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "eowiki": {
+          "site": "eowiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Museo de Orsay",
+          "badges": []
+        },
+        "etwiki": {
+          "site": "etwiki",
+          "title": "Orsay muuseum",
+          "badges": []
+        },
+        "euwiki": {
+          "site": "euwiki",
+          "title": "Orsay museoa",
+          "badges": []
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "\u0645\u0648\u0632\u0647 \u0627\u0648\u0631\u0633\u06cc",
+          "badges": []
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Orsayn taidemuseo",
+          "badges": []
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "furwiki": {
+          "site": "furwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "fywiki": {
+          "site": "fywiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "gawiki": {
+          "site": "gawiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "gdwiki": {
+          "site": "gdwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "glwiki": {
+          "site": "glwiki",
+          "title": "Museo de Orsay",
+          "badges": []
+        },
+        "hawwiki": {
+          "site": "hawwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "\u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d3'\u05d0\u05d5\u05e8\u05e1\u05d4",
+          "badges": []
+        },
+        "hiwiki": {
+          "site": "hiwiki",
+          "title": "\u0913\u0930\u094d\u0938\u0947 \u0938\u0902\u0917\u094d\u0930\u0939\u093e\u0932\u092f (\u092a\u0947\u0930\u093f\u0938)",
+          "badges": []
+        },
+        "hrwiki": {
+          "site": "hrwiki",
+          "title": "Muzej d'Orsay",
+          "badges": []
+        },
+        "huwiki": {
+          "site": "huwiki",
+          "title": "Mus\u00e9e d\u2019Orsay",
+          "badges": []
+        },
+        "hywiki": {
+          "site": "hywiki",
+          "title": "\u0555\u0580\u057d\u0565 \u0569\u0561\u0576\u0563\u0561\u0580\u0561\u0576",
+          "badges": []
+        },
+        "iawiki": {
+          "site": "iawiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Museum Orsay",
+          "badges": []
+        },
+        "ilowiki": {
+          "site": "ilowiki",
+          "title": "Museo ti Orsay",
+          "badges": []
+        },
+        "iowiki": {
+          "site": "iowiki",
+          "title": "Muzeo d'Orsay",
+          "badges": []
+        },
+        "iswiki": {
+          "site": "iswiki",
+          "title": "Orsay-minjasafni\u00f0",
+          "badges": []
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Museo d'Orsay",
+          "badges": []
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u30aa\u30eb\u30bb\u30fc\u7f8e\u8853\u9928",
+          "badges": []
+        },
+        "jbowiki": {
+          "site": "jbowiki",
+          "title": "di,orsais. zei muzga",
+          "badges": []
+        },
+        "jvwiki": {
+          "site": "jvwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "kabwiki": {
+          "site": "kabwiki",
+          "title": "Muzee n Orsay",
+          "badges": []
+        },
+        "kawiki": {
+          "site": "kawiki",
+          "title": "\u10dd\u10e0\u10e1\u10d4\u10d8\u10e1 \u10db\u10e3\u10d6\u10d4\u10e3\u10db\u10d8",
+          "badges": []
+        },
+        "knwiki": {
+          "site": "knwiki",
+          "title": "\u0cae\u0ccd\u0caf\u0cc2\u0cb8\u0cbf \u0ca6\u0ccd'\u0c93\u0cb0\u0ccd\u0cb8\u0cc6",
+          "badges": []
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "\uc624\ub974\uc138 \ubbf8\uc220\uad00",
+          "badges": []
+        },
+        "kshwiki": {
+          "site": "kshwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "kuwiki": {
+          "site": "kuwiki",
+          "title": "Muzeya Orsay\u00ea",
+          "badges": []
+        },
+        "kvwiki": {
+          "site": "kvwiki",
+          "title": "\u041e\u0440\u0441\u044d \u043c\u0443\u0437\u0435\u0439",
+          "badges": []
+        },
+        "kwwiki": {
+          "site": "kwwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "lawiki": {
+          "site": "lawiki",
+          "title": "Museum Orsay",
+          "badges": []
+        },
+        "lbwiki": {
+          "site": "lbwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "lijwiki": {
+          "site": "lijwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "lmowiki": {
+          "site": "lmowiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "ltwiki": {
+          "site": "ltwiki",
+          "title": "Ors\u0117 muziejus",
+          "badges": []
+        },
+        "lvwiki": {
+          "site": "lvwiki",
+          "title": "Ors\u0113 muzejs",
+          "badges": []
+        },
+        "mkwiki": {
+          "site": "mkwiki",
+          "title": "\u041c\u0443\u0437\u0435\u0458 \u041e\u0440\u0441\u0435",
+          "badges": []
+        },
+        "mlwiki": {
+          "site": "mlwiki",
+          "title": "\u0d2e\u0d41\u0d38\u0d40 \u0d21\u0d3f\u0d13\u0d34\u0d4d\u0d38\u0d47",
+          "badges": []
+        },
+        "mnwiki": {
+          "site": "mnwiki",
+          "title": "\u041c\u0443\u0437\u0435\u0439 \u041e\u0440\u0441\u0435",
+          "badges": []
+        },
+        "mswiki": {
+          "site": "mswiki",
+          "title": "Muzium Orsay",
+          "badges": []
+        },
+        "myvwiki": {
+          "site": "myvwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "mywiki": {
+          "site": "mywiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "mznwiki": {
+          "site": "mznwiki",
+          "title": "\u0627\u0648\u0631\u0633\u06cc \u0645\u0648\u0632\u0647",
+          "badges": []
+        },
+        "nahwiki": {
+          "site": "nahwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "napwiki": {
+          "site": "napwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "ndswiki": {
+          "site": "ndswiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "nlwiki": {
+          "site": "nlwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "nnwiki": {
+          "site": "nnwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "novwiki": {
+          "site": "novwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "ocwiki": {
+          "site": "ocwiki",
+          "title": "Mus\u00e8u d'Orsay",
+          "badges": []
+        },
+        "oswiki": {
+          "site": "oswiki",
+          "title": "\u041c\u0443\u0437\u0435\u0439 \u0434\u2019\u041e\u0440\u0441\u0435",
+          "badges": []
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Mus\u00e9e d\u2019Orsay",
+          "badges": []
+        },
+        "pmswiki": {
+          "site": "pmswiki",
+          "title": "Mus\u00e9 d'Orsay",
+          "badges": []
+        },
+        "pnbwiki": {
+          "site": "pnbwiki",
+          "title": "\u0627\u0648\u0631\u0633\u06d2 \u0645\u06cc\u0648\u0632\u06cc\u0645",
+          "badges": []
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Museu de Orsay",
+          "badges": []
+        },
+        "quwiki": {
+          "site": "quwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "roa_rupwiki": {
+          "site": "roa_rupwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "roa_tarawiki": {
+          "site": "roa_tarawiki",
+          "title": "Mus\u00e8e d'u Orsay",
+          "badges": []
+        },
+        "rowiki": {
+          "site": "rowiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "\u041c\u0443\u0437\u0435\u0439 \u041e\u0440\u0441\u0435",
+          "badges": []
+        },
+        "scnwiki": {
+          "site": "scnwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "scowiki": {
+          "site": "scowiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "scwiki": {
+          "site": "scwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "sewiki": {
+          "site": "sewiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "shwiki": {
+          "site": "shwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "skwiki": {
+          "site": "skwiki",
+          "title": "Mus\u00e9e d\u2019Orsay",
+          "badges": []
+        },
+        "slwiki": {
+          "site": "slwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "sowiki": {
+          "site": "sowiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "sqwiki": {
+          "site": "sqwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "srwiki": {
+          "site": "srwiki",
+          "title": "\u041c\u0443\u0437\u0435\u0458 \u041e\u0440\u0441\u0435",
+          "badges": []
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "swwiki": {
+          "site": "swwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "szlwiki": {
+          "site": "szlwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "tawiki": {
+          "site": "tawiki",
+          "title": "\u0b93\u0bb0\u0bcd\u0b9a\u0bc7 \u0b85\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0b95\u0bae\u0bcd",
+          "badges": []
+        },
+        "tetwiki": {
+          "site": "tetwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "\u0e1e\u0e34\u0e1e\u0e34\u0e18\u0e20\u0e31\u0e13\u0e11\u0e4c\u0e2d\u0e2d\u0e23\u0e4c\u0e41\u0e0b",
+          "badges": []
+        },
+        "tlwiki": {
+          "site": "tlwiki",
+          "title": "Museo ng Orsay",
+          "badges": []
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "Orsay M\u00fczesi",
+          "badges": []
+        },
+        "tywiki": {
+          "site": "tywiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "\u041c\u0443\u0437\u0435\u0439 \u0434'\u041e\u0440\u0441\u0435",
+          "badges": []
+        },
+        "urwiki": {
+          "site": "urwiki",
+          "title": "\u0627\u0648\u0631\u0633\u06d2 \u0645\u06cc\u0648\u0632\u06cc\u0645",
+          "badges": []
+        },
+        "uzwiki": {
+          "site": "uzwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "B\u1ea3o t\u00e0ng Orsay",
+          "badges": []
+        },
+        "vlswiki": {
+          "site": "vlswiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "warwiki": {
+          "site": "warwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "wawiki": {
+          "site": "wawiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "wowiki": {
+          "site": "wowiki",
+          "title": "Jeexiituwaay bu Orsay",
+          "badges": []
+        },
+        "wuuwiki": {
+          "site": "wuuwiki",
+          "title": "\u5965\u8d5b\u535a\u7269\u9986",
+          "badges": []
+        },
+        "zh_min_nanwiki": {
+          "site": "zh_min_nanwiki",
+          "title": "Mus\u00e9e d'Orsay",
+          "badges": []
+        },
+        "zh_yuewiki": {
+          "site": "zh_yuewiki",
+          "title": "\u5967\u8cfd\u535a\u7269\u9928",
+          "badges": []
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u5965\u8d5b\u535a\u7269\u9986",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

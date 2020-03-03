@@ -20,6 +20,7 @@ class WikiDataType(enum.Enum):
     Forms = 15
     Senses = 16
 
+
 class WikiDataTypeConverter:
 
     def convertStringToWikiDatatype(self, value):
@@ -52,13 +53,13 @@ class WikiDataTypeConverter:
             return WikiDataType.GeographicShape
         elif value == "musical notation":
             return WikiDataType.MusicalNotation
-        elif value =="tabular data":
+        elif value == "tabular data":
             return WikiDataType.TabularData
-        elif value =="lexemes":
+        elif value == "lexemes":
             return WikiDataType.Lexemes
-        elif value =="forms":
+        elif value == "forms":
             return WikiDataType.Forms
-        elif value =="senses":
+        elif value == "senses":
             return WikiDataType.Senses
 
         raise ValueError("Unknown data type: {}".format(value))
