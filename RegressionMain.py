@@ -1,6 +1,6 @@
-from CustomLinearRegression import CustomLinearRegression
-from DBConnectionManager import DBConnectionManager
-from WikiTable import WikiTable
+from domain.ml.CustomLinearRegression import CustomLinearRegression
+from infrastructure.DBConnectionManager import DBConnectionManager
+from infrastructure.WikiTable import WikiTable
 import numpy as np
 from matplotlib import pyplot as plt
 import pandas as pd

@@ -1,8 +1,7 @@
-from API import API
-from CitiesTableAssembler import CitiesTableAssembler
-from DBConnectionManager import DBConnectionManager
-from MuseumTableAssembler import MuseumTableAssembler
-from WikiTable import WikiTable
+from api.API import API
+from infrastructure.DBConnectionManager import DBConnectionManager
+from api.MuseumTableAssembler import MuseumTableAssembler
+from infrastructure.WikiTable import WikiTable
 import json
 
 
@@ -26,7 +25,6 @@ def main():
             print("{}: {}".format(property, propertiesJson[property]))
 
     museumTableAssembler.addMuseumProperties(museumTable, propertiesJson, api)
-
     museumTable.persist("Museums", dbConnectionManager.getDBConnection())
 
 

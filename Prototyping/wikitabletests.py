@@ -1,12 +1,12 @@
 import sqlite3
 
-from WikiTable import WikiTable
+from infrastructure.WikiTable import WikiTable
 
 
 dbPath = "Museums.db"
 connection = sqlite3.connect(dbPath)
 
-table = {'Client_Name':['John Smithhhhhhhh','Bill Martin'],
+table = {'Client_Name':['John Smith', 'Bill Martin'],
          'Country_ID':[1,2],
          'Date': [14012019, 14012019]}
 

@@ -1,5 +1,6 @@
 from datetime import timedelta
-from WikipediaDateParser import WikipediaDateParser
+from domain.WikipediaDateParser import WikipediaDateParser
+from utils.constants import DATE_QUALIFIER
 
 
 class CitiesTableAssembler:
@@ -50,25 +51,24 @@ class CitiesTableAssembler:
             preferredFound = False
 
             for data in populationData:
-                if (data["rank"] == "preferred"):
+                if data.get("rank", "") == "preferred":
                     preferredData = data
                     preferredFound = True
 
-                currentPopulationString = data['mainsnak']['datavalue']['value']['amount']
+                currentPopulationString = data.get("mainsnak", {}).get("datavalue", {}).get("value", {})\
+                    .get("amount", "")
                 currentPopulation = eval(currentPopulationString)
 
                 if (currentPopulation > highestPopulation):
                     highestPopulation = currentPopulation
 
                 # Check if date is more recent than newest
-                try:
-                    dates = data['qualifiers']['P585']
-                except:
-                    # Mmeans that there is no date available for this population data
+                dates = data.get("qualifiers", {}).get(DATE_QUALIFIER)
+                if dates is None:
                     continue
 
                 date = list(dates)[0]
-                stringDate = date['datavalue']['value']['time']
+                stringDate = date.get("datavalue", {}).get("value", {}).get("time", '')
                 currentDate = WikipediaDateParser.parse(stringDate)
                 dateDelta = newestDate - currentDate
 
@@ -78,7 +78,8 @@ class CitiesTableAssembler:
                     newestData = data
 
                 elif (dateDelta == emptyDelta):
-                    newestPopulationString = newestData['mainsnak']['datavalue']['value']['amount']
+                    newestPopulationString = newestData.get("mainsnak", {}).get("datavalue", {}).get("value", {})\
+                        .get("amount", "")
                     newestPopulation = eval(newestPopulationString)
 
                     if (currentPopulation > newestPopulation):
@@ -86,11 +87,13 @@ class CitiesTableAssembler:
                         newestData = data
 
             if preferredFound:
-                populationString = preferredData['mainsnak']['datavalue']['value']['amount']
+                populationString = preferredData.get("mainsnak", {}).get("datavalue", {}).get("value", {})\
+                    .get("amount", "")
                 population = eval(populationString)
             else:
                 if (newestData is not None):
-                    populationString = newestData['mainsnak']['datavalue']['value']['amount']
+                    populationString = newestData.get("mainsnak", {}).get("datavalue", {}).get("value", {}) \
+                        .get("amount", "")
                     population = eval(populationString)
                 else:
                     population = highestPopulation

@@ -1,8 +1,8 @@
-import MuseumsAdditionalProperties
+import MuseumsAdditionalPropertiesMain
 import MuseumsMain
 import RegressionMain
 
 if __name__ == '__main__':
     MuseumsMain.main()
     RegressionMain.main()
-    MuseumsAdditionalProperties.main()
+    MuseumsAdditionalPropertiesMain.main()

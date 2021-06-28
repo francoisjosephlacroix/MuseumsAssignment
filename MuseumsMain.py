@@ -1,8 +1,8 @@
-from API import API
-from CitiesTableAssembler import CitiesTableAssembler
-from DBConnectionManager import DBConnectionManager
-from MuseumTableAssembler import MuseumTableAssembler
-from WikiTable import WikiTable
+from api.API import API
+from api.CitiesTableAssembler import CitiesTableAssembler
+from infrastructure.DBConnectionManager import DBConnectionManager
+from api.MuseumTableAssembler import MuseumTableAssembler
+from infrastructure.WikiTable import WikiTable
 
 
 def main():

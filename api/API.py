@@ -1,17 +1,17 @@
 import requests
 
+from utils.constants import POPULATION_KEY
+
 
 class API:
-
     def __init__(self):
         pass
 
     def getMuseumList(self):
         museumsRequest = requests.get(
-            'https://en.wikipedia.org/w/api.php?action=parse&page=List_of_most_visited_museums&prop=text&format=json')
+            'https://en.wikipedia.org/w/api.php?action=parse&page=List_of_most-visited_museums&prop=text&format=json')
 
         page_content = museumsRequest.json()
-
         return page_content
 
     def getWikibaseItemFromArticleName(self, articleName):
@@ -19,7 +19,7 @@ class API:
             articleName)
         wikibaseRequest = requests.get(wikibaseIdURL)
         wikibaseJson = wikibaseRequest.json()
-        wikibaseEntities = wikibaseJson['entities']
+        wikibaseEntities = wikibaseJson.get('entities', {})
         wikibaseItem = list(wikibaseEntities)[0]
 
         return wikibaseItem
@@ -29,13 +29,13 @@ class API:
             cityRef)
         pageIdRequest = requests.get(pageIdURL)
         pageIdJson = pageIdRequest.json()
-        pages = pageIdJson["query"]['pages']
+        pages = pageIdJson.get("query", {}).get("pages", {})
         pageId = list(pages)[0]
         redirectUrl = "https://en.wikipedia.org/w/api.php?action=query&format=json&pageids={}&redirects".format(
             pageId)
         redirectRequest = requests.get(redirectUrl)
         redirectJson = redirectRequest.json()
-        redirectsTo = redirectJson["query"]['redirects'][0]['to']
+        redirectsTo = redirectJson.get("query", {}).get("redirects", {})[0].get("to", '')
         formattedRedirect = redirectsTo.replace(' ', '_')
         return formattedRedirect
 
@@ -43,10 +43,10 @@ class API:
         populationRequest = requests.get(
             "https://www.wikidata.org/w/api.php?action=wbgetentities&ids={}&format=json".format(id))
         populationJson = populationRequest.json()
-        entities = populationJson["entities"]
+        entities = populationJson.get("entities", {})
         entity = entities[list(entities)[0]]
-        claims = entity["claims"]
-        populationData = claims["P1082"]
+        claims = entity.get("claims", {})
+        populationData = claims.get(POPULATION_KEY, [])
         return populationData
 
     def getWikiDataForWikibaseItem(self, id):

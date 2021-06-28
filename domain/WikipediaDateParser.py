@@ -1,13 +1,12 @@
 from datetime import datetime
 
 
-class WikipediaDateParser():
+class WikipediaDateParser:
 
+    @staticmethod
     def parse(stringDate):
-
         # Remove + at beginning
         stringDate = stringDate[1:]
-
         month = stringDate[5:7]
         day = stringDate[8:10]
 

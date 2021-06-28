@@ -24,7 +24,6 @@ class WikiDataType(enum.Enum):
 class WikiDataTypeConverter:
 
     def convertStringToWikiDatatype(self, value):
-
         value = value.lower()
 
         if value == "commonsMedia":

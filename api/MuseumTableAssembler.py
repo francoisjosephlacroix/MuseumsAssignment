@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 
-import WikipediaDateParser
-from WikiDataType import WikiDataType, WikiDataTypeConverter
-from WikiReferenceValidator import WikiReferenceValidator
-from WikiTable import WikiTable
+from domain import WikipediaDateParser
+from domain.WikiDataType import WikiDataType, WikiDataTypeConverter
+from api.WikiReferenceValidator import WikiReferenceValidator
+from infrastructure.WikiTable import WikiTable
 
 
 class MuseumTableAssembler:
@@ -12,7 +12,7 @@ class MuseumTableAssembler:
         self.wikiDataTypeConverter = WikiDataTypeConverter()
 
     def assembleTable(self, page_content):
-        page_html = page_content["parse"]["text"]["*"]
+        page_html = page_content.get("parse", {}).get("text", {}).get("*", "")
         soup = BeautifulSoup(page_html)
 
         self.soupTable = soup.find('table', {'class': 'wikitable sortable'})
@@ -83,7 +83,6 @@ class MuseumTableAssembler:
     def addMuseumProperties(self, table, properties, api):
 
         for index, row in table.iterrows():
-
             museumRef = row["MuseumNameRef"]
             museumRef = museumRef.replace("/wiki/", "")
             print("museumRef", museumRef)
@@ -103,10 +102,9 @@ class MuseumTableAssembler:
 
             museumDataJson = api.getWikiDataForWikibaseItem(wikibaseItem)
 
-            propertiesJson = museumDataJson["entities"][wikibaseItem]["claims"]
+            propertiesJson = museumDataJson.get("entities", {}).get(wikibaseItem, {}).get("claims", {})
 
             for key, value in properties.items():
-
                 try:
                     property = propertiesJson[key]
                     feature = self.extractFeatureFromProperty(property, key, value, api)
@@ -116,37 +114,32 @@ class MuseumTableAssembler:
                             table[propertyName] = ""
 
                         table.at[index, propertyName] = propertyValue
-
                 except:
                     pass
 
     def extractFeatureFromProperty(self, json, key, propertyName, api):
         property = json[0]
-        mainsnak = property["mainsnak"]
-        datatype = mainsnak["datatype"]
-
+        mainsnak = property.get("mainsnak", {})
+        datatype = mainsnak.get("datatype", '')
         wikiDataType = self.wikiDataTypeConverter.convertStringToWikiDatatype(datatype)
 
         if wikiDataType == WikiDataType.GlobeCoordinates:
-            value = mainsnak["datavalue"]["value"]
-            latitude = value["latitude"]
-            longitude = value["longitude"]
-            altitude = value["altitude"]
+            value = mainsnak.get("datavalue", {}).get("value", {})
+            latitude = value.get("latitude", 0.0)
+            longitude = value.get("longitude", 0.0)
+            altitude = value.get("altitude", 0.0)
 
             propertyValue = {"latitude": latitude, "longitude": longitude, "altitude": altitude}
             return propertyValue
 
         elif wikiDataType == WikiDataType.Item:
-
-            wikibaseId = mainsnak["datavalue"]["value"]["id"]
+            wikibaseId = mainsnak.get("datavalue", {}).get("value", {}).get("id", "")
             wikibaseIdJson = api.getWikiDataForWikibaseItem(wikibaseId)
-
-            aliases = wikibaseIdJson["entities"][wikibaseId]["aliases"]
+            aliases = wikibaseIdJson.get("entities", {}).get(wikibaseId, {}).get("aliases", {})
 
             if "en" in aliases:
                 enAliases = aliases["en"]
                 alias = enAliases[0]["value"]
-
             else:
                 # If no english name, just take the first alias in any language
                 alias = list(aliases)[0][0]["value"]
@@ -154,15 +147,11 @@ class MuseumTableAssembler:
             return {propertyName: alias}
 
         elif wikiDataType == WikiDataType.ExternalIdentifier:
-
-            id = mainsnak["datavalue"]["value"]
-
+            id = mainsnak.get("datavalue", {}).get("value", "")
             return {propertyName: id}
 
         elif wikiDataType == WikiDataType.Time:
-
-            stringDate = mainsnak["datavalue"]["value"]["time"]
-
+            stringDate = mainsnak.get("datavalue", {}).get("value", {}).get("time", "")
             date = WikipediaDateParser.parse(stringDate)
             formattedDateString = date.strftime("%Y-%m-%dT%H:%M:%SZ")
             return {propertyName: formattedDateString}
