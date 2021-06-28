@@ -18,6 +18,8 @@ This sqlite DB contains two tables: Cities and Museums
 
 To run this repo, you can use Main.py, which will call the respective mains of the subsections needed to complete the task. You can refer to the requirements.txt file for the necessary packages.
 
+A Dockerfile has also been created to deploy the whole project easily. Thus, one only needs to build the dockerfile and run the image to see the project in action.
+
 ## Notable features
 
 I coded an entire Linear Regression Model from scratch to showcase my ability to understand custom ML models and reproduce them.
