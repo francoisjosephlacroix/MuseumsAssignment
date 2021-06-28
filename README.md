@@ -14,6 +14,10 @@ Thus, they all interact with a local sqlite DB to persist information between ru
 For instance, the table that contains museums is used many times and additional data is added to it. 
 This sqlite DB contains two tables: Cities and Museums
 
+![Cities table](https://github.com/francoisjosephlacroix/MuseumsAssignment/blob/master/readme_images/cities.png)
+![Museums table](https://github.com/francoisjosephlacroix/MuseumsAssignment/blob/master/readme_images/museums.png)
+
+
 ## How to run
 
 To run this repo, you can use Main.py, which will call the respective mains of the subsections needed to complete the task. You can refer to the requirements.txt file for the necessary packages.
@@ -23,6 +27,8 @@ A Dockerfile has also been created to deploy the whole project easily. Thus, one
 ## Notable features
 
 I coded an entire Linear Regression Model from scratch to showcase my ability to understand custom ML models and reproduce them.
+
+![Results from custom linear regression](https://github.com/francoisjosephlacroix/MuseumsAssignment/blob/master/readme_images/linearregression.png)
 
 In order to interface the code with an SQL database, I extended the pandas DataFrame class.
 This means that the pandas DataFrame can be used as if it was a normal DataFrame with all its convenient features.
